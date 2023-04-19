@@ -1,0 +1,42 @@
+[
+  {
+    "key": "urunSec",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[2]/android.widget.ScrollView/androidx.appcompat.widget.LinearLayoutCompat/androidx.recyclerview.widget.RecyclerView/androidx.cardview.widget.CardView[2]/android.view.ViewGroup/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout[1]/androidx.viewpager.widget.ViewPager/androidx.recyclerview.widget.RecyclerView/android.view.ViewGroup/android.widget.ImageView",
+    "androidType": "xpath"
+  },
+  {
+    "key": "urunDetaylari",
+    "androidValue": "com.pozitron.hepsiburada:id/tvProductName",
+    "androidType": "id"
+  },
+  {
+    "key": "sepeteEkle",
+    "androidValue": "com.pozitron.hepsiburada:id/product_detail_add_to_cart_text",
+    "androidType": "id"
+  },
+  {
+    "key": "eklendiMi",
+    "androidValue": "com.pozitron.hepsiburada:id/productInfoTxt",
+    "androidType": "id"
+  },
+  {
+    "key": "sepeteGit",
+    "androidValue": "com.pozitron.hepsiburada:id/goBasketTxt",
+    "androidType": "id"
+  },
+  {
+    "key": "urunuArttir",
+    "androidValue": "//android.view.View[@content-desc=\"Ürünü Arttır\"]/android.widget.Image",
+    "androidType": "xpath"
+  },
+  {
+    "key": "urunuAzalt",
+    "androidValue": "//android.view.View[@content-desc=\"Ürünü Azalt\"]/android.widget.Image",
+    "androidType": "xpath"
+  },
+  {
+    "key": "satinAlmayiBitir",
+    "androidValue": "continue_step_btn",
+    "androidType": "id"
+  }
+]

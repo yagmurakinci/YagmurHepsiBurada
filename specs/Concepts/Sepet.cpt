@@ -1,0 +1,10 @@
+#HepsiBurada Sepete Ekleme
+
+* "urunSec" xpath'li elemente tikla
+* "urunDetaylari" id'li elemente tikla
+* "sepeteEkle" id'li elemente tikla
+* "eklendiMi" li element gorunur olana kadar bekle
+* "sepeteGit" id'li elemente tikla
+* "urunuArttir" xpath'li elemente tikla
+* "urunuAzalt" xpath'li elemente tikla
+* "satinAlmayiBitir" id'li elemente tikla

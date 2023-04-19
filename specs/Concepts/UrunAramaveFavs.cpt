@@ -1,0 +1,20 @@
+# HepsiBurada anasayfadan ürün arama ve favorilere ekleme
+
+     * "Anasayfa" li element gorunur olana kadar bekle
+     * "anasayfaAramaButonu" li element gorunur olana kadar bekle
+     * "anasayfaAramaButonu" id'li elemente tikla
+     * "anasayfaAramaButonu" id'li elemente "kolye" text degerini gonder
+     * "searchButonu" id'li elemente tikla
+     * "ilkUrun" li elementin oldugu kontrol edilir
+     * "ikinciUrun" li elementin oldugu kontrol edilir
+     * "favoriyeEkle" id'li elemente tikla
+
+
+
+
+
+
+
+
+
+

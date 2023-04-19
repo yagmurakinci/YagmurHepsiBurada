@@ -1,0 +1,14 @@
+# HepsiBurada anasayfasından login olunur
+
+   * <KullaniciButonu> li element gorunur olana kadar bekle
+   * <KullanıcıButonu> id'li elemente tikla
+   * <girisYapCheckButton> xpath'li elemente tikla
+   * "2" saniye kadar bekle
+   * <epostaGirisBox> id'li elemente tikla
+   * <epostaGirisBox> id'li elemente "yagmur.akinci@testinium.com" text degerini gonder
+   * <sifreGirisSayfa> li element gorunur olana kadar bekle
+   * <sifreGirisBox> id'li elemente "Ya124578." text degerini gonder
+   * <girisPopup> li element gorunur olana kadar bekle
+   * <girisPopupButton> id'li elemente tikla
+   * <hesabımSayfası> xpath'li element gorunur olana kadar bekle
+   * <hesabımSayfamıKapat> id'li elemente tikla
